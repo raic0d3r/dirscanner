@@ -42,7 +42,7 @@ DirScanner - A simple finder tool.
     ```
     git clone https://github.com/raic0d3r/dirscanner.git
     ```
-5. Change to Catch directory
+5. Change to dirscanner directory
     ```
     cd dirscanner
     ```
