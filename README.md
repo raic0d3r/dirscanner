@@ -1,4 +1,4 @@
-# Catch
+# DirScanner
 
 ![GitHub repository](https://img.shields.io/badge/raic0d3r-DirScanner-blue?style=flat-square&logo=github)
 ![GitHub version](https://img.shields.io/badge/version-1.0-yellow?style=flat-square)
