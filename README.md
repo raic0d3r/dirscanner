@@ -91,4 +91,4 @@ by [**Raihan Uddin**](https://t.me/raic0d3r)
 
 ## License
 
-This repository is under [Unlicense License](https://github.com/haithamaouati/Catch/blob/main/LICENSE).
+This repository is under [Unlicense License](https://github.com/raic0d3r/dirscanner/blob/main/LICENSE).
